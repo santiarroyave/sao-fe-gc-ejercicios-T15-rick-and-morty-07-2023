@@ -9,6 +9,8 @@ import { LoginComponent } from './login/login.component';
 import { HomeComponent } from './home/home.component';
 import { ListaPerComponent } from './home/lista-per/lista-per.component';
 import { PersComponent } from './home/lista-per/pers/pers.component';
+import { AboutComponent } from './home/about/about.component';
+import { NavComponent } from './home/nav/nav.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { PersComponent } from './home/lista-per/pers/pers.component';
     LoginComponent,
     HomeComponent,
     ListaPerComponent,
-    PersComponent
+    PersComponent,
+    AboutComponent,
+    NavComponent
   ],
   imports: [
     BrowserModule,

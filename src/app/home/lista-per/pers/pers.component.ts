@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-pers',
@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./pers.component.css']
 })
 export class PersComponent {
+
+  @Input() seleccionado:any;
+
+  cerrar(){
+    this.seleccionado = "";
+  }
 
 }
