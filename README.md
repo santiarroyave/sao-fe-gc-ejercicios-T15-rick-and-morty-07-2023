@@ -13,3 +13,7 @@ T15 Rick And Morty
 
 ## Personaje
 ![imagen](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T15-rick-and-morty-07-2023/assets/135848692/ddadf3ca-488e-4758-a183-9ead400c4a68)
+
+## About
+[Ver About](https://main.d26ejexghbsbg7.amplifyapp.com/about)
+![imagen](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T15-rick-and-morty-07-2023/assets/135848692/3ff8f466-2f88-46f9-a6db-651d949f0c67)
