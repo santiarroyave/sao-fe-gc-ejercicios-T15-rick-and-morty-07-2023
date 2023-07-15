@@ -1,4 +1,11 @@
 T15 Rick And Morty
+## Notas
+### Estructura
+![imagen](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T15-rick-and-morty-07-2023/assets/135848692/e1199b2b-89bc-4a46-b179-ed05eae7b474)
+
+Como el home es un componente se usa un redirectTo:
+`{path:"", redirectTo:"home", pathMatch: "full"}`
+
 ## Register
 [Ver Register](https://main.d26ejexghbsbg7.amplifyapp.com/register)
 ![imagen](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T15-rick-and-morty-07-2023/assets/135848692/00cf3d7b-eafd-4f35-a9e7-23f4eebe4080)
